@@ -1,2 +1,2 @@
 # Minecraft_2D
-Nothing special
+A 2D version of famous game.
