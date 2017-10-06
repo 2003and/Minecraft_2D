@@ -1,2 +1,2 @@
 # Minecraft_2D
-A 2D version of famous game.
+A 2D version of famous game. Great!
